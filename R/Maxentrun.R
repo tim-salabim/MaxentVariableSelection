@@ -8,7 +8,7 @@ function(maxent,outdir,gridfolder,occurrencesites,backgroundsites,additionalargs
       "-e", backgroundsites,
       additionalargs,sep=" "),
             intern=TRUE,
-            ignore.stdout = TRUE,
+            ignore.stdout = FALSE,
              show.output.on.console = FALSE,
             )
       }

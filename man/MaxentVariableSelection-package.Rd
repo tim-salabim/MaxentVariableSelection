@@ -20,8 +20,8 @@ Maxent niche modelling.}
 \tabular{ll}{
 Package: \tab MaxentVariableSelection\cr
 Type: \tab Package\cr
-Version: \tab 1.0-2\cr
-Date: \tab 2016-04-02\cr
+Version: \tab 1.NA.NA\cr
+Date: \tab 2016-06-20\cr
 Depends: \tab R (>= 3.1.2)\cr
 Imports: \tab ggplot2, raster\cr
 Suggests: \tab knitr, rmarkdown\cr
